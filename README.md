@@ -2,5 +2,6 @@
 
 * 🪐 [here you can hear sounds from other planets](https://dariamalina-drum-kit.netlify.app/)
 * 🧝‍♀️ [here you can find out a little more information about me](https://dariamalina.github.io/rsschool-cv/)
-![blogger](https://user-images.githubusercontent.com/60240764/132524523-ff3078c9-ec0d-46ef-9c29-2144c9af2793.png)
+![blogger (1)](https://user-images.githubusercontent.com/60240764/132524638-26f69249-734e-4bff-9e4e-f053cc9997ff.png)
+
 
