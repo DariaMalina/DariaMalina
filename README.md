@@ -6,4 +6,5 @@
 * [<img src="https://img.icons8.com/ios/50/000000/louvre-pyramid.png" style='height:20px;margin-top:10px;'/> Louvre](https://dariamalina-museum-adaptive.netlify.app/)
 
 
-![3Ayb](https://user-images.githubusercontent.com/60240764/136259543-f2be8dd2-0295-489f-8d95-d23f1d2a93c7.gif)
+
+![6tXM](https://user-images.githubusercontent.com/60240764/136259764-f61205fa-25ef-486c-85e5-d69a8f9c7c74.gif)
