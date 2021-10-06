@@ -5,6 +5,5 @@
 * 🕹 [later it will be possible to play cards here](https://dariamalina.github.io/memoji/)
 * [<img src="https://img.icons8.com/ios/50/000000/louvre-pyramid.png" style='height:20px;margin-top:10px;'/> Louvre](https://dariamalina-museum-adaptive.netlify.app/)
 
-![blogger (1)](https://user-images.githubusercontent.com/60240764/132524638-26f69249-734e-4bff-9e4e-f053cc9997ff.png)
-
+<div style="padding-top:108.571%;position:relative;"><iframe src="https://gifer.com/embed/3Ayb" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">через GIFER</a></p>
 
