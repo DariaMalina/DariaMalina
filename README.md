@@ -1,4 +1,4 @@
-### Hey!👋 My name is Dasha, I just started programming, but I already have some projects:
+### Hey!👋  My name is Dasha! Here you can see my educational projects::
 
 * 🪐 [here you can hear sounds from other planets](https://dariamalina-drum-kit.netlify.app/)
 * 🕹 [later it will be possible to play cards here](https://dariamalina.github.io/memoji/)
@@ -10,3 +10,4 @@
 
 
 ![6tXM](https://user-images.githubusercontent.com/60240764/136259764-f61205fa-25ef-486c-85e5-d69a8f9c7c74.gif)
+https://media2.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=790b76112082855bc103b86f5319f8b46bfbd4fd0584f0e8&rid=giphy.gif&ct=g
