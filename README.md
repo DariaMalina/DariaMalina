@@ -1,4 +1,4 @@
-### Hey!👋  My name is Dasha! Here you can see my educational projects::
+### Hey!👋  My name is Dasha! Here you can see my educational projects:
 
 * 🪐 [here you can hear sounds from other planets](https://dariamalina-drum-kit.netlify.app/)
 * 🕹 [later it will be possible to play cards here](https://dariamalina.github.io/memoji/)
